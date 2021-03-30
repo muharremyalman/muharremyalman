@@ -13,6 +13,7 @@ We are working on a social responsibility project involving violence against wom
 ## The Technologies I Work For
   - React.Js
   - Angular
+  - Vue
   - .Net Mvc
   - MsSql, MongoDb
   - .NET Core
