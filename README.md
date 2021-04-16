@@ -8,7 +8,7 @@ I'm a student of Management Information Systems. I will graduate in June 2021 fr
 
 ## I'm Currently Working On
 
-We are working on a social responsibility project involving violence against women and an e-commerce application that we can sell
+I am working on E-commerce project, Social Responsibility project for women and entrepreneurship project
 
 ## The Technologies I Work For
   - React
