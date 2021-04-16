@@ -11,12 +11,13 @@ I'm a student of Management Information Systems. I will graduate in June 2021 fr
 We are working on a social responsibility project involving violence against women and an e-commerce application that we can sell
 
 ## The Technologies I Work For
-  - React.Js
+  - React
   - Angular
   - Vue
   - .Net Mvc
-  - MsSql, MongoDb
+  - MsSql
   - .NET Core
+  - Wordpress
 
   ## Contact Me 
 [![Linkedin Badge](https://img.shields.io/badge/muharremyalman-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muharremyalman/)
