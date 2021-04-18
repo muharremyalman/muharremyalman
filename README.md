@@ -14,9 +14,8 @@ I am working on E-commerce project, Social Responsibility project for women and 
   - React
   - Angular
   - Vue
-  - .Net Mvc
+  - Asp.Net
   - MsSql
-  - .NET Core
   - Wordpress
 
   ## Contact Me 
