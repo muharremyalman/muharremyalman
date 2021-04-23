@@ -11,11 +11,11 @@ I'm a student of Management Information Systems. I will graduate in June 2021 fr
 I am working on E-commerce project, Social Responsibility project for women and entrepreneurship project
 
 ## The Technologies I Work For
-  - React
   - Angular
-  - Vue
+  - TypeScript
   - Asp.Net
-  - MsSql
+  - Asp.Net MVC
+  - Sql Server
   - Wordpress
 
   ## Contact Me 
