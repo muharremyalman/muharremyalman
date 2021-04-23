@@ -1,4 +1,4 @@
-I'm Muharrem Yalman.Interested in web programming. As a hobby, I do songwriting and voice acting on my youtube channel
+I'm Muharrem Yalman. Interested in web programming. 
 
 ![Muharrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muharremyalman&show_icons=true)
 
@@ -17,6 +17,9 @@ I am working on E-commerce project, Social Responsibility project for women and 
   - Asp.Net MVC
   - Sql Server
   - Wordpress
+  - Microsoft Word
+  - Microsoft Excel
+  - Microsoft PowerPoint
 
   ## Contact Me 
 [![Linkedin Badge](https://img.shields.io/badge/muharremyalman-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muharremyalman/)
