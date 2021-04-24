@@ -12,8 +12,10 @@ I am working on E-commerce project, Social Responsibility project for women and 
 
 ## The Technologies I Work For
   - Angular
+  - React
+  - Vue
   - TypeScript
-  - Asp.Net
+  - Asp.Net Core
   - Asp.Net MVC
   - Sql Server
   - Wordpress
