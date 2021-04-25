@@ -1,4 +1,3 @@
-I'm Muharrem Yalman. Interested in web programming. 
 
 ![Muharrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muharremyalman&show_icons=true)
 
