@@ -3,7 +3,7 @@
 
 ## Education Status
 
-I'm a student of Management Information Systems. I will graduate in June 2021 from [Bilecik Şeyh Edebali Üniversitesi](http://www.bilecik.edu.tr/)
+I'm a student of Management Information Systems. I will graduate in July 2021 from [Bilecik Şeyh Edebali Üniversitesi](http://www.bilecik.edu.tr/)
 
 ## I'm Currently Working On
 
