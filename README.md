@@ -3,11 +3,7 @@
 
 ## Education Status
 
-I'm a student of Management Information Systems. I will graduate in July 2021 from [Bilecik Şeyh Edebali Üniversitesi](http://www.bilecik.edu.tr/)
-
-## I'm Currently Working On
-
-I am working on E-commerce project, Social Responsibility project for women and entrepreneurship project
+I'm a student of Management Information Systems. I will graduate in August 2021 from [Bilecik Şeyh Edebali Üniversitesi](http://www.bilecik.edu.tr/)
 
 ## The Technologies I Work For
   - Angular
