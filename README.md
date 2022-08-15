@@ -13,7 +13,6 @@ I'm a student of Management Information Systems. I will graduate in August 2021 
   - Asp.Net
   - Asp.Net MVC
   - Sql Server
-  - Wordpress
   - Microsoft Word
   - Microsoft Excel
   - Microsoft PowerPoint
