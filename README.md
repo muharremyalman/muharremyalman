@@ -23,10 +23,6 @@ Kariyer hedefim Yazılım Geliştirme alanında ilerlemekti. Bu doğrultuda 3 se
         <a href="https://github.com/muharremyalman">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=muharremyalman&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
         </a>
-        <a href="https://git.io/streak-stats">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muharremyalman&theme=radical&date_format=j%20M%5B%20Y%5D" />
-        </a>
-    </div>
 
 <div>
     <div>
