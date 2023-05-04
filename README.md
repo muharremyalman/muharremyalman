@@ -10,11 +10,17 @@
     </thead>
     <tbody>
        <tr>
-            <td>  Aldığım eğitimlerin, teorikte karşılığını bulabilmek adına henüz öğrenciyken atıldım iş hayatına. 3000 başvuru arasından ilk 100 arasına girerek DenizBank kurumunda "Gönüllü" olarak staj yapmaya hak kazandım. Staj tarihleri okulum ile uyuşmadığı için sigortam karşılanmıyordu bu yüzden yapamıyordum. Yetkili tüm kişilerle muhatap oldum ve istediğimi elde edebilmek için tüm zorluklara rağmen bunu başardım. 
+            <td>İşletme ve bilişim teknolojilerini kapsayan güçlü bir öğretim ve öğrenme motivasyonu geçmişiyle yeniliklere hızla adapte olabilmeyi, sosyal medyayı aktif kullanabilmeyi, en önemlisi bilgiyi pazarlamayı ve nerede arayacağımı öğrendim.
 
-İçinde bulunduğum proje başarılarından bahsedecek olursam, gerçekleştirdiğimiz staj sonu projesinde süreç tanımlamadan yürütmeye kadar aktif rol aldığım proje 14 grup arasından İlk 3 finale girmeye hak kazandı. E- Ticaret, Girişimcilik, Proje Yönetimi derslerinden hareketle aynı anda 3 ay boyunca 3 projenin Ekip Liderliğini yaptım. Bunlardan E- Ticaret "dynamicmask" projesi yurtdışından 3 teklif aldı. Öğrenci iken maddi yetersizlikten dolayı ödeme kanalları ile anlaşmamız olmadığı için havale yöntemiyle gelen taleplerden bir tanesini tasarlayıp bastırarak satış gerçekleştirdik . Müşteriyi anlama ve kriz yönetimi konusunda içinde bulunduğum 2 ekip arkadaşıma verdiğim anket dersleri neticesinde 4.10 anket ortalamasından 4.50 ortalamaya yükselmesine destek sağladım.
+Ders içi ve dışı kulüp çalışmalarında, etkinlik ve projelerde aktif rol alarak, yeri geldiğinde liderlik yaparak gerçek hayat simülasyonunu deneyimleme fırsatım oldu. Çalışmalarım hesabımda mevcut. 
 
-Kariyer hedefim Yazılım Geliştirme alanında ilerlemekti. Bu doğrultuda 3 senedir okulum harici çeşitli eğitimler aldım. Uğraştığım Teknolojiler C# Asp.Net Core, Mvc ve javascript. Hayallerime ulaşmak adına pes etmeden devam ediyorum. </td>
+Şirketinize gereken katma değeri, sahip olduğum yetenekler ve sizlerle beraber kazanacağım deneyimle mükemmel işlere imza atacağımıza inanıyorum. İhtiyacım olan bilgiyi nerede arayacağımı biliyor, İngilizcemi geliştirmeye hâlen devam ediyorum. Ayrıca hobi olarak kendim nesir yazılar ve şiirler yazıp seslendiriyorum.
+
+İçinde bulunduğum proje başarılarından bahsedecek olursam, gerçekleştirdiğimiz staj sonu projesinde süreç tanımlamadan yürütmeye kadar aktif rol aldığım proje 14 grup arasından İlk 3 finale girmeye hak kazandı. E- Ticaret, Girişimcilik, Proje Yönetimi derslerinden hareketle aynı anda 3 ay boyunca 3 projenin Ekip Liderliğini yaptım. Bunlardan E- Ticaret "dynamicmask" projesi yurtdışından 3 teklif aldı. Öğrenci iken maddi yetersizlikten dolayı ödeme kanalları ile anlaşmamız olmadığı için havale yöntemiyle gelen taleplere yanıt verilemedi.
+
+İş deneyimlerimden hareketle müşteriyi anlama ve kriz yönetimi konusunda içinde bulunduğum 2 ekip arkadaşıma verdiğim anket dersleri neticesinde 4.10 anket ortalamasından 4.50 ortalamaya yükselmesine destek sağladım. Verdiğim satış eğitimi sonucunda ekibimde yer alan arkadaşlarımın yaptığı satış ciroları 2 katına çıktı. Deneyimlerim bana işletme literatüründen anlayan bilişimci olma yolunda önemli katkılar sağladı.
+
+Kariyer hedefim Yazılım Geliştirme alanında ilerlemek. Bu doğrultuda 3 senedir okulum harici çeşitli eğitimler aldım. Uğraştığım Teknolojiler C# Asp.Net Core, Mvc ve javascript. Bu doğrultuda yaptığım projeler github hesabımda detaylarıyla mevcut. </td>
           </tr>
           </tbody>
 </table>
