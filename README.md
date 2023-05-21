@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+software+developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Software+Developer+and+Business+Analyst&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=27">
 </p>
 
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
@@ -10,17 +10,21 @@
     </thead>
     <tbody>
        <tr>
-            <td>İşletme ve bilişim teknolojilerini kapsayan güçlü bir öğretim ve öğrenme motivasyonu geçmişiyle yeniliklere hızla adapte olabilmeyi, sosyal medyayı aktif kullanabilmeyi, en önemlisi bilgiyi pazarlamayı ve nerede arayacağımı öğrendim.
+            <td>Hiç bilgim olmayan bir şey üzerinde saatlerce araştırma yaptığımda zamanın nasıl geçtiğini fark etmeyen ben, yazılım alanında kendimi geliştirmeye başladım. İşin mutfağına indiğimde eklentiler üzerinde kodladığım satırı anında görebildiğimi fark ettim ve web programlama alanına yöneldim. Bu süreç 3 senemi aldı. Motivasyon ve merakımla devam ederken, titizlikle uzun süre uğraştığım projenin sonunda bile eksiklik olduğunu fark ettim. İşletme ağırlıklı öğretim ve yazılım ağırlıklı çabalarımın verdiği yetkinlikleri kullanarak "İş Analisti", "Yazılım Geliştiricisi" alanlarında ilerleme kararı aldım.<br> <br>
 
-Ders içi ve dışı kulüp çalışmalarında, etkinlik ve projelerde aktif rol alarak, yeri geldiğinde liderlik yaparak gerçek hayat simülasyonunu deneyimleme fırsatım oldu. Çalışmalarım hesabımda mevcut. 
+Ders içi ve dışı kulüp çalışmalarında, etkinlik ve projelerde aktif rol alarak yer aldığım grup ve bireysel projelerde gerçek hayat simülasyonunu deneyimleme fırsatım oldu.
 
-Şirketinize gereken katma değeri, sahip olduğum yetenekler ve sizlerle beraber kazanacağım deneyimle mükemmel işlere imza atacağımıza inanıyorum. İhtiyacım olan bilgiyi nerede arayacağımı biliyor, İngilizcemi geliştirmeye hâlen devam ediyorum. Ayrıca hobi olarak kendim nesir yazılar ve şiirler yazıp seslendiriyorum.
+İçinde bulunduğum proje başarılarından bahsedecek olursam, Denizbank A.Ş kurumunda gerçekleştirdiğimiz staj sonu projesinde süreç tanımlamadan yürütmeye kadar aktif rol aldığım proje 14 grup arasından İlk 3 finale girmeye hak kazandı. E- Ticaret, Girişimcilik, Proje Yönetimi derslerinden hareketle aynı anda 3 ay boyunca 3 projenin Ekip Liderliğini yaptım. Bunlardan E- Ticaret projemiz yurt dışından 3 teklif aldı. Öğrenciyken maddi yetersizlikten dolayı ödeme kanalları ile anlaşmamız olmadığı için havale yöntemi tercih edildi ve gelen taleplere yanıt verilemedi.
 
-İçinde bulunduğum proje başarılarından bahsedecek olursam, gerçekleştirdiğimiz staj sonu projesinde süreç tanımlamadan yürütmeye kadar aktif rol aldığım proje 14 grup arasından İlk 3 finale girmeye hak kazandı. E- Ticaret, Girişimcilik, Proje Yönetimi derslerinden hareketle aynı anda 3 ay boyunca 3 projenin Ekip Liderliğini yaptım. Bunlardan E- Ticaret "dynamicmask" projesi yurtdışından 3 teklif aldı. Öğrenci iken maddi yetersizlikten dolayı ödeme kanalları ile anlaşmamız olmadığı için havale yöntemiyle gelen taleplere yanıt verilemedi.
+İş deneyimlerimden hareketle müşteriyi anlama ve kriz yönetimi konusunda içinde bulunduğum ekip arkadaşlarıma verdiğim anket dersleri neticesinde 4.10 anket ortalamasından 4.50 ortalamaya yükselmesine destek sağladım. İş deneyimlerim bana “İnsan İlişkileri”, “Müşteri” kavramını öğretti. Şimdi ise ailenizin bir parçası olarak öğrendiklerimi bilgisayar destekli sistemlerde sizlerle kazanacağım
+deneyimle sürdürmeyi hedefliyorum.
 
-İş deneyimlerimden hareketle müşteriyi anlama ve kriz yönetimi konusunda içinde bulunduğum 2 ekip arkadaşıma verdiğim anket dersleri neticesinde 4.10 anket ortalamasından 4.50 ortalamaya yükselmesine destek sağladım. Verdiğim satış eğitimi sonucunda ekibimde yer alan arkadaşlarımın yaptığı satış ciroları 2 katına çıktı. Deneyimlerim bana işletme literatüründen anlayan bilişimci olma yolunda önemli katkılar sağladı.
+Bu doğrultuda 3 senedir okulum harici çeşitli eğitimler aldım. Uğraştığım dil ve kütüphaneler C# Asp.Net Core, Mvc, Angular.
 
-Kariyer hedefim Yazılım Geliştirme alanında ilerlemek. Bu doğrultuda 3 senedir okulum harici çeşitli eğitimler aldım. Uğraştığım Teknolojiler C# Asp.Net Core, Mvc ve javascript. Bu doğrultuda yaptığım projeler github hesabımda detaylarıyla mevcut. </td>
+linkedin.com/in/muharremyalman <br> <br>
+muharremyalmanybs.medium.com  <br> <br>
+medium.com/bşeuybsk <br> <br>
+           </td>
           </tr>
           </tbody>
 </table>
