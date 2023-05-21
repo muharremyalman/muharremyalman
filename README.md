@@ -14,7 +14,7 @@
 
 Ders içi ve dışı kulüp çalışmalarında, etkinlik ve projelerde aktif rol alarak yer aldığım grup ve bireysel projelerde gerçek hayat simülasyonunu deneyimleme fırsatım oldu.
 
-İçinde bulunduğum proje başarılarından bahsedecek olursam, Denizbank A.Ş kurumunda gerçekleştirdiğimiz staj sonu projesinde süreç tanımlamadan yürütmeye kadar aktif rol aldığım proje 14 grup arasından İlk 3 finale girmeye hak kazandı. E- Ticaret, Girişimcilik, Proje Yönetimi derslerinden hareketle aynı anda 3 ay boyunca 3 projenin Ekip Liderliğini yaptım. Bunlardan E- Ticaret projemiz yurt dışından 3 teklif aldı. Öğrenciyken maddi yetersizlikten dolayı ödeme kanalları ile anlaşmamız olmadığı için havale yöntemi tercih edildi ve gelen taleplere yanıt verilemedi.
+İçinde bulunduğum proje başarılarından bahsedecek olursam, Denizbank A.Ş kurumunda gerçekleştirdiğimiz staj sonu projesinde süreç tanımlamadan yürütmeye kadar aktif rol aldığım proje 14 grup arasından İlk 3 finale girmeye hak kazandı. E- Ticaret, Girişimcilik, Proje Yönetimi derslerinden hareketle aynı anda 3 ay boyunca 3 projenin Ekip Liderliğini yaptım. Bunlardan E- Ticaret projemiz yurt dışından 3 teklif aldı ve havale yöntemiyle web sitesi üzerinden 10 adet satışını gerçekleştirdik.
 
 İş deneyimlerimden hareketle müşteriyi anlama ve kriz yönetimi konusunda içinde bulunduğum ekip arkadaşlarıma verdiğim anket dersleri neticesinde 4.10 anket ortalamasından 4.50 ortalamaya yükselmesine destek sağladım. İş deneyimlerim bana “İnsan İlişkileri”, “Müşteri” kavramını öğretti. Şimdi ise ailenizin bir parçası olarak öğrendiklerimi bilgisayar destekli sistemlerde sizlerle kazanacağım
 deneyimle sürdürmeyi hedefliyorum.
