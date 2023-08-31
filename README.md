@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Software+Developer+and+Business+Analyst&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Business+Analyst+Candidate&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=27">
 </p>
 
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
@@ -10,16 +10,15 @@
     </thead>
     <tbody>
        <tr>
-            <td>Hiç bilgim olmayan bir şey üzerinde saatlerce araştırma yaptığımda zamanın nasıl geçtiğini fark etmeyen ben, yazılım alanında kendimi geliştirmeye başladım. İşin mutfağına indiğimde eklentiler üzerinde kodladığım satırı anında görebildiğimi fark ettim ve web programlama alanına yöneldim. Bu süreç 3 senemi aldı. Motivasyon ve merakımla devam ederken, titizlikle uzun süre uğraştığım projenin sonunda bile eksiklik olduğunu fark ettim. İşletme ağırlıklı öğretim ve yazılım ağırlıklı çabalarımın verdiği yetkinlikleri kullanarak "İş Analisti", "Yazılım Geliştiricisi" alanlarında ilerleme kararı aldım.<br> <br>
+            <td> Problem ve ihtiyaçlara çözüm bulmanın verdiği mutluluk, hayatım boyunca motivasyon ve ilham kaynağım oldu. Aldığım eğitimlerin yanında çabalarımla ve öğrenme arzumla ihtiyacı anlamakta zorluk çekmiyor ve farklı bakış açısıyla bakarak çözüm üretebiliyorum. Süreç tanımlamadan yürütmeye kadar birçok projede aktif rol aldım. <br> <br>
 
-Ders içi ve dışı kulüp çalışmalarında, etkinlik ve projelerde aktif rol alarak yer aldığım grup ve bireysel projelerde gerçek hayat simülasyonunu deneyimleme fırsatım oldu.
+Ders içi ve dışı kulüp çalışmalarında, etkinlik ve projelerde aktif rol alarak yer aldığım grup ve bireysel projelerde gerçek hayat simülasyonunu deneyimleme fırsatım oldu. İçinde bulunduğum proje başarılarından bahsedecek olursam, Denizbank A.Ş kurumunda gerçekleştirdiğimiz staj sonu projesinde süreç tanımlamadan yürütmeye kadar aktif rol aldığım proje 14 grup arasından İlk 3 finale girmeye hak kazandı. 
 
-İçinde bulunduğum proje başarılarından bahsedecek olursam, Denizbank A.Ş kurumunda gerçekleştirdiğimiz staj sonu projesinde süreç tanımlamadan yürütmeye kadar aktif rol aldığım proje 14 grup arasından İlk 3 finale girmeye hak kazandı. E- Ticaret, Girişimcilik, Proje Yönetimi derslerinden hareketle aynı anda 3 ay boyunca 3 projenin Ekip Liderliğini yaptım. Bunlardan E- Ticaret projemiz yurt dışından 3 teklif aldı ve havale yöntemiyle web sitesi üzerinden 10 adet satışını gerçekleştirdik.
+E- Ticaret, Girişimcilik, Proje Yönetimi derslerinden hareketle aynı anda 3 ay boyunca 3 projenin Ekip Liderliğini yaptım. Bunlardan E- Ticaret projemiz yurt dışından 3 teklif aldı ve havale yöntemiyle web sitesi üzerinden 10 adet satışını gerçekleştirdik. İş deneyimlerimden hareketle müşteriyi anlama ve kriz yönetimi konusunda içinde bulunduğum ekip arkadaşlarıma verdiğim anket dersleri neticesinde 4.10 anket ortalamasından 4.50 ortalamaya yükselmesine destek sağladım. 
 
-İş deneyimlerimden hareketle müşteriyi anlama ve kriz yönetimi konusunda içinde bulunduğum ekip arkadaşlarıma verdiğim anket dersleri neticesinde 4.10 anket ortalamasından 4.50 ortalamaya yükselmesine destek sağladım. İş deneyimlerim bana “İnsan İlişkileri”, “Müşteri” kavramını öğretti. Şimdi ise ailenizin bir parçası olarak öğrendiklerimi bilgisayar destekli sistemlerde sizlerle kazanacağım
-deneyimle sürdürmeyi hedefliyorum.
+Hiç bilgim olmayan bir şey üzerinde saatlerce araştırma yaptığımda zamanın nasıl geçtiğini fark etmeyen ben, yazılım alanında kendimi geliştirmeye başladım. İşin mutfağına indiğimde eklentiler üzerinde kodladığım satırı anında görebildiğimi fark ettim ve web programlama alanına yöneldim. Bu süreç 3 senemi aldı. Motivasyon ve merakımla devam ederken, titizlikle uzun süre uğraştığım projenin sonunda bile eksiklik olduğunu fark ettim. İşletme ağırlıklı öğretim ve yazılım ağırlıklı çabalarımın verdiği yetkinlikleri kullanarak "IT İş Analisti" alanında ilerleme kararı aldım.
 
-Bu doğrultuda 3 senedir okulum harici çeşitli eğitimler aldım. Uğraştığım dil ve kütüphaneler C# Asp.Net Core, Mvc, Angular.
+İş deneyimlerim bana “İnsan İlişkileri”, “Müşteri” kavramını öğretti. Bugün ise hayatıma öğrenen, öğrendikçe daha çok keşfeden biri olarak devam ediyorum.
 
 linkedin.com/in/muharremyalman <br> <br>
 muharremyalmanybs.medium.com  <br> <br>
