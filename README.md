@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Business+Analyst+Candidate&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+Page;I+am+a+Software+Developer+Candidate&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=27">
 </p>
 
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
@@ -10,19 +10,18 @@
     </thead>
     <tbody>
        <tr>
-            <td> Problem ve ihtiyaçlara çözüm bulmanın verdiği mutluluk, hayatım boyunca motivasyon ve ilham kaynağım oldu. Aldığım eğitimlerin yanında çabalarımla ve öğrenme arzumla ihtiyacı anlamakta zorluk çekmiyor ve farklı bakış açısıyla bakarak çözüm üretebiliyorum. Süreç tanımlamadan yürütmeye kadar birçok projede aktif rol aldım. <br> <br>
+            <td> Hayatı boyunca “Mücadele Ruhu” ile yaşayan ve öğrenen biriyim. Liseden itibaren çalışmadığım bir ay olmadı. Eğitim hayatım boyunca parmakla gösterilen üç kişiden biri oldum. Girdiğim her ortamda sevilen ve saygı görülen bir insanım. <br> <br>
 
-Ders içi ve dışı kulüp çalışmalarında, etkinlik ve projelerde aktif rol alarak yer aldığım grup ve bireysel projelerde gerçek hayat simülasyonunu deneyimleme fırsatım oldu. İçinde bulunduğum proje başarılarından bahsedecek olursam, Denizbank A.Ş kurumunda gerçekleştirdiğimiz staj sonu projesinde süreç tanımlamadan yürütmeye kadar aktif rol aldığım proje 14 grup arasından İlk 3 finale girmeye hak kazandı. 
+Teknolojiye olan ilgim nedeniyle seçmeli olarak Bilgi Teknolojileri, Veri ve Bilgi Yönetimi, Sistem Analizi ve Tasarımı, SQL, ERP, E - Ticaret, CRM, Proje Yönetimi konularında eğitim aldım. Okul harici 300 + saat yazılım eğitimlerine katıldım. DenizBank kurumunda gönüllü staj yaptım, yer aldığım 7 kişilik proje prototipi ile süreç oluşturma, ihtiyaç ve gereksinim analizleri, problem çözme yetkinliklerimi geliştirdim. 14 grup arasından ilk 3'e girdi. Proje Yönetimi, girişimcilik, E - Ticaret derslerinde süreç tanımlamadan yürütmeye kadar olan tüm aşamalarda 3 ay boyunca aynı anda 3 farklı projede 5' er kişilik ekip arkadaşıyla yer aldığım projelerde proje yönetimi gerçekleştirdim. E - Ticaret projesini canlıya taşıdık yurt dışı teklif aldı ve 10 adet satışı gerçekleştirildi.
 
-E- Ticaret, Girişimcilik, Proje Yönetimi derslerinden hareketle aynı anda 3 ay boyunca 3 projenin Ekip Liderliğini yaptım. Bunlardan E- Ticaret projemiz yurt dışından 3 teklif aldı ve havale yöntemiyle web sitesi üzerinden 10 adet satışını gerçekleştirdik. İş deneyimlerimden hareketle müşteriyi anlama ve kriz yönetimi konusunda içinde bulunduğum ekip arkadaşlarıma verdiğim anket dersleri neticesinde 4.10 anket ortalamasından 4.50 ortalamaya yükselmesine destek sağladım. 
+İletişim, Zaman Yönetimi, Ekip Uyumu, Liderlik, Analitik düşünme, Stres Yönetimi kişisel yetkinliklerimi, Bireysel Saha Satış, Müşteri Hizmetleri Görevlisi, İş Analisti pozisyonlarında ve Gönüllü deneyimlerimle beraber projelerle geliştirdim.
 
-Hiç bilgim olmayan bir şey üzerinde saatlerce araştırma yaptığımda zamanın nasıl geçtiğini fark etmeyen ben, yazılım alanında kendimi geliştirmeye başladım. İşin mutfağına indiğimde eklentiler üzerinde kodladığım satırı anında görebildiğimi fark ettim ve web programlama alanına yöneldim. Bu süreç 3 senemi aldı. Motivasyon ve merakımla devam ederken, titizlikle uzun süre uğraştığım projenin sonunda bile eksiklik olduğunu fark ettim. İşletme ağırlıklı öğretim ve yazılım ağırlıklı çabalarımın verdiği yetkinlikleri kullanarak "IT İş Analisti" alanında ilerleme kararı aldım.
+Şirketinizin iş süreçlerini optimize etmeye ve verileri daha etkili bir şekilde değerlendirmeye yardımcı olmayı hedefleyen “Özveri” ve “Sadakat” kelimelerini benimsemiş Yönetim ve Bilişim literatüründen anlayan güçlü bir aday olarak karşınızdayım. Değer yaratma misyonunuza katkıda bulunma şansını değerlendirmekten büyük bir memnuniyet duyar ve özgeçmişimi paylaşmak isterim, yöneticilerimden ve takım liderlerimden referans aldım, dilerseniz paylaşabilirim.
 
-İş deneyimlerim bana “İnsan İlişkileri”, “Müşteri” kavramını öğretti. Bugün ise hayatıma öğrenen, öğrendikçe daha çok keşfeden biri olarak devam ediyorum.
+Eğer şu an için açık bir pozisyon olmasa bile, potansiyel iş fırsatlarına ilgi duyduğumu ve gelecekteki pozisyonlarda çalışmak için heyecanlandığımı belirtmek istiyorum. Sizinle tanışmak ve şirketinize nasıl bir değer katabileceğimizi daha fazla tartışmak adına bir fırsat verebilirseniz kendimi daha detaylı anlatmaktan memnuniyet duyarım. Değerli zamanınızı ayırdığınız için teşekkür ederim.
 
 linkedin.com/in/muharremyalman <br> <br>
 muharremyalmanybs.medium.com  <br> <br>
-medium.com/bşeuybsk <br> <br>
            </td>
           </tr>
           </tbody>
