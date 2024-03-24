@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+Page;I+am+a+Software+Developer+Candidate&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+Page;I+am+a+Business+Analyst+Candidate&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=27">
 </p>
 
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
@@ -12,16 +12,14 @@
        <tr>
             <td> Hayatı boyunca “Mücadele Ruhu” ile yaşayan ve öğrenen biriyim. Liseden itibaren çalışmadığım bir ay olmadı. Eğitim hayatım boyunca parmakla gösterilen üç kişiden biri oldum. Girdiğim her ortamda sevilen ve saygı görülen bir insanım. <br> <br>
 
-Teknolojiye olan ilgim nedeniyle seçmeli olarak Bilgi Teknolojileri, Veri ve Bilgi Yönetimi, Sistem Analizi ve Tasarımı, SQL, ERP, E - Ticaret, CRM, Proje Yönetimi konularında eğitim aldım. Okul harici 300 + saat yazılım eğitimlerine katıldım. DenizBank kurumunda gönüllü staj yaptım, yer aldığım 7 kişilik proje prototipi ile süreç oluşturma, ihtiyaç ve gereksinim analizleri, problem çözme yetkinliklerimi geliştirdim. 14 grup arasından ilk 3'e girdi. Proje Yönetimi, girişimcilik, E - Ticaret derslerinde süreç tanımlamadan yürütmeye kadar olan tüm aşamalarda 3 ay boyunca aynı anda 3 farklı projede 5' er kişilik ekip arkadaşıyla yer aldığım projelerde proje yönetimi gerçekleştirdim. E - Ticaret projesini canlıya taşıdık yurt dışı teklif aldı ve 10 adet satışı gerçekleştirildi.
+Teknolojiye olan ilgim nedeniyle seçmeli olarak Bilgi Teknolojileri, Veri ve Bilgi Yönetimi, Sistem Analizi ve Tasarımı, SQL, ERP, E - Ticaret, CRM, Proje Yönetimi konularında eğitim aldım. Okul harici 300 + saat yazılım eğitimlerine katıldım. DenizBank kurumunda gönüllü staj yaptım, yer aldığım 7 kişilik proje prototipi ile süreç oluşturma, ihtiyaç ve gereksinim analizleri, problem çözme yetkinliklerimi geliştirdim. 14 grup arasından ilk 3'e girdi. Proje Yönetimi, girişimcilik, E - Ticaret derslerinde süreç tanımlamadan yürütmeye kadar olan tüm aşamalarda 3 ay boyunca aynı anda 3 farklı projede 5' er kişilik ekip arkadaşıyla yer aldığım projelerde proje yönetimi gerçekleştirdim. E - Ticaret projesini canlıya taşıdık yurt dışı teklif aldı ve  satışı gerçekleştirildi.
 
 İletişim, Zaman Yönetimi, Ekip Uyumu, Liderlik, Analitik düşünme, Stres Yönetimi kişisel yetkinliklerimi, Bireysel Saha Satış, Müşteri Hizmetleri Görevlisi, İş Analisti pozisyonlarında ve Gönüllü deneyimlerimle beraber projelerle geliştirdim.
 
-Şirketinizin iş süreçlerini optimize etmeye ve verileri daha etkili bir şekilde değerlendirmeye yardımcı olmayı hedefleyen “Özveri” ve “Sadakat” kelimelerini benimsemiş Yönetim ve Bilişim literatüründen anlayan güçlü bir aday olarak karşınızdayım. Değer yaratma misyonunuza katkıda bulunma şansını değerlendirmekten büyük bir memnuniyet duyar ve özgeçmişimi paylaşmak isterim, yöneticilerimden ve takım liderlerimden referans aldım, dilerseniz paylaşabilirim.
+Şirketinizin iş süreçlerini optimize etmeye ve verileri daha etkili bir şekilde değerlendirmeye yardımcı olmayı hedefleyen “Özveri” ve “Sadakat” kelimelerini benimsemiş Yönetim ve Bilişim literatüründen anlayan  bir aday olarak karşınızdayım. Değer yaratma misyonunuza katkıda bulunma şansını değerlendirmekten büyük bir memnuniyet duyarım.
 
-Eğer şu an için açık bir pozisyon olmasa bile, potansiyel iş fırsatlarına ilgi duyduğumu ve gelecekteki pozisyonlarda çalışmak için heyecanlandığımı belirtmek istiyorum. Sizinle tanışmak ve şirketinize nasıl bir değer katabileceğimizi daha fazla tartışmak adına bir fırsat verebilirseniz kendimi daha detaylı anlatmaktan memnuniyet duyarım. Değerli zamanınızı ayırdığınız için teşekkür ederim.
 
-linkedin.com/in/muharremyalman <br> <br>
-muharremyalmanybs.medium.com  <br> <br>
+ <br>
            </td>
           </tr>
           </tbody>
@@ -49,7 +47,7 @@ muharremyalmanybs.medium.com  <br> <br>
                     <th>Frontend</td>
                       <td>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"                            height="40"/>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="40"   height="40"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
