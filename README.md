@@ -10,13 +10,15 @@
     </thead>
     <tbody>
        <tr>
-            <td> Hayatı boyunca “Mücadele Ruhu” ile yaşayan ve öğrenen biriyim. Liseden itibaren çalışmadığım bir ay olmadı. Eğitim hayatım boyunca parmakla gösterilen üç kişiden biri oldum. Girdiğim her ortamda sevilen ve saygı görülen bir insanım. <br> <br>
+            <td> Hayatı boyunca “Mücadele Ruhu” ile yaşayan ve öğrenen biriyim. <br> <br>
 
-Teknolojiye olan ilgim nedeniyle seçmeli olarak Bilgi Teknolojileri, Veri ve Bilgi Yönetimi, Sistem Analizi ve Tasarımı, SQL, ERP, E - Ticaret, CRM, Proje Yönetimi konularında eğitim aldım. Okul harici 300 + saat yazılım eğitimlerine katıldım. DenizBank kurumunda gönüllü staj yaptım, yer aldığım 7 kişilik proje prototipi ile süreç oluşturma, ihtiyaç ve gereksinim analizleri, problem çözme yetkinliklerimi geliştirdim. 14 grup arasından ilk 3'e girdi. Proje Yönetimi, girişimcilik, E - Ticaret derslerinde süreç tanımlamadan yürütmeye kadar olan tüm aşamalarda 3 ay boyunca aynı anda 3 farklı projede 5' er kişilik ekip arkadaşıyla yer aldığım projelerde proje yönetimi gerçekleştirdim. E - Ticaret projesini canlıya taşıdık yurt dışı teklif aldı ve  satışı gerçekleştirildi.
+“İş Analisti” Mesleğinde uzmanlaşma hedefiyle seçmeli olarak Bilgi Teknolojileri, Veri ve Bilgi Yönetimi, Sistem Analizi ve Tasarımı, SQL, ERP, E- Ticaret, CRM, Proje Yönetimi konularında eğitim aldım. Eğitimim haricinde online olarak 300 saatin üzerinde kurslarla eğitimimi destekledim. DenizBank kurumunda gönüllü staj yaptım. Yer aldığım grup projesinde ve eğitimde süreç oluşturma, ihtiyaç ve gereksinim analizleri, problem çözme yetkinliklerimi geliştirdim. Süreç tanımlamadan yürütmeye kadar tüm aşamalarda 3 ay boyunca 3 farklı projede 7’şer kişilik ekip yönettim.
 
-İletişim, Zaman Yönetimi, Ekip Uyumu, Liderlik, Analitik düşünme, Stres Yönetimi kişisel yetkinliklerimi, Bireysel Saha Satış, Müşteri Hizmetleri Görevlisi, İş Analisti pozisyonlarında ve Gönüllü deneyimlerimle beraber projelerle geliştirdim.
+İletişim, Liderlik, Ekip Çalışması, Zaman Yönetimi, Analitik Düşünebilme yetkinliklerimi Bireysel Saha Satış, Müşteri Hizmetleri, Yer aldığım gönüllü ve bireysel çalışmalar, eğitimler ve kitap okuyarak geliştirdim ve geliştirmeye devam ediyorum. 
 
-Şirketinizin iş süreçlerini optimize etmeye ve verileri daha etkili bir şekilde değerlendirmeye yardımcı olmayı hedefleyen “Özveri” ve “Sadakat” kelimelerini benimsemiş Yönetim ve Bilişim literatüründen anlayan  bir aday olarak karşınızdayım. Değer yaratma misyonunuza katkıda bulunma şansını değerlendirmekten büyük bir memnuniyet duyarım.
+🏆 Başarılar: TSK -> Övgü Mektubu, Turkcell Global Bilgi -> 4.10 Anket ortalamasından 4.40 anket oranı ulaşılması, E - Ticaret Projesi -> Yurt dışı teklif, satış. Lav Medya -> Günlük ve Haftalık Satış 1.ciliği, DenizBank -> Bitirme Projesi 14 grup arasından ilk 3'e girmesi.
+
+💬 İlgi Alanlarım: Yeni bir blog sitesi kurma fırsatım oldu artık düzenli olarak içerik paylaşmak adına özen göstereceğim, aynı zamanda kendime ait nesir ve şiir türünde yazılar yazıp Youtube kanalımda seslendiriyorum. SQL, Excel, Figma, İngilizce konusunda aktif olarak çalışıyorum.
 
 
  <br>
